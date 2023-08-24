@@ -17,7 +17,7 @@ May 2023, 9 weeks
 </br>
 
 프로젝트 완성 PPT </br>
-[trakker.pdf](https://github.com/TrakkerTeam/trakker/files/11980945/trakker.pdf)
+[trakker.pdf](https://github.com/Coco-9/trakker/blob/master/trakker.pdf)
 
 
 ***
